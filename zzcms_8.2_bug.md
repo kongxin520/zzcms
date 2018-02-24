@@ -108,7 +108,7 @@ zzcms_8.2_bug
 >
 > [Attack Vectors]
 > The vulnerability is triggered by accessing the following URL :
-> http://127.0.0.1/3/qq_connect2.0/API/class/ErrorCase.class.php
+> http://127.0.0.1/3/qq_connect2.0/API/class/ErrorCase.class.php         
 > http://127.0.0.1/3/ucenter_api/code/friend.php
 >
 > ------------------------------------------
