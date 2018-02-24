@@ -1,5 +1,5 @@
 # zzcms
-zzcms_8.2_bug
+zzcms 8.2 bug
 
 
 > [Suggested description]      
